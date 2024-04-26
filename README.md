@@ -47,7 +47,3 @@ Note: Both server and client should run in order for the
 
 Contributions to this repository are welcome. If you would like to contribute, please fork the repository, make your changes, and submit a pull request. Be sure to follow any contribution guidelines specified in the repository.
 
-## License
-
-The code in this repository is distributed under the [MIT](https://choosealicense.com/licenses/mit/) License. You can find the full text of the license in the LICENSE file.
-
