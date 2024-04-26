@@ -1,5 +1,5 @@
 
-# Portfolio
+# Pokemon Card
 
 This repository hosts the source code of Pokemon Card. The website showcases search feature with file caching to simulate server side render when optimize web app performance.
 
@@ -40,7 +40,7 @@ This will run the application.
 Note: Both server and client should run in order for the 
 ## DEMO
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://raw.githubusercontent.com/Chebbebang/Pokemon-Card/main/client/public/Sample.avif))
 
 
 ## Contributing
