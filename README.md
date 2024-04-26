@@ -24,6 +24,7 @@ git clone https://github.com/Chebbebang/Pokemon-Card.git
 After cloning the repository, open up a terminal and cd to the server folder then run:
 
 ```bash
+npm install
 npm start
 ```
 
@@ -32,6 +33,7 @@ The code above runs the server automatically.
 In the terminal, cd to the client folder then run:
 
 ```bash
+npm install
 npm run vite
 ```
 
