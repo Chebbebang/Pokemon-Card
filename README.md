@@ -40,7 +40,7 @@ This will run the application.
 Note: Both server and client should run in order for the 
 ## DEMO
 
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://raw.githubusercontent.com/Chebbebang/Pokemon-Card/main/client/public/Sample.avif))
+![App Screenshot](https://raw.githubusercontent.com/Chebbebang/Pokemon-Card/main/client/public/Sample.avif)
 
 
 ## Contributing
